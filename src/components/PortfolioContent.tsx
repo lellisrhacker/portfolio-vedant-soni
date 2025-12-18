@@ -294,7 +294,7 @@ export default function PortfolioContent({
                 <div className="flex flex-col md:flex-row justify-between md:items-start gap-4">
                   <div className="space-y-2">
                     <div className="flex items-center gap-3">
-                      <h3 className="text-2xl font-bold italic">Code Clash by Let's Code at UNSTOP</h3>
+                      <h3 className="text-2xl font-bold italic">Code Clash by Let&apos;s Code at UNSTOP</h3>
                       <Badge className="bg-blue-500/20 text-blue-400 border-blue-500/30">Honorable Mention</Badge>
                     </div>
                     <p className="text-lg text-blue-400 font-mono">Role: Participant</p>
